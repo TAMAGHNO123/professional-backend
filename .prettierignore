@@ -1,0 +1,27 @@
+/.vscode
+/node_modules
+*.env
+/dist
+/build
+/public
+/static
+# IDE-specific directories
+/.vscode
+
+# Dependency directories
+/node_modules
+
+# Environment files
+*.env
+
+# Build output directories
+/dist
+/build
+
+# Static assets
+/public
+/static
+
+# Generated files
+*.min.js
+*.bundle.js
